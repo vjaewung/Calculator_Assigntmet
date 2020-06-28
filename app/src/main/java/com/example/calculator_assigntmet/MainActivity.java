@@ -74,7 +74,6 @@ public class MainActivity extends AppCompatActivity {
             }
         }
         else {
-
  */
             inputNumber = Double.parseDouble(activityMainBinding.resultTextView.getText().toString());
 
